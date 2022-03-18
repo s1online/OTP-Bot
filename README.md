@@ -40,6 +40,9 @@ pip install -U discord-py-interactions / pip install -U discord-py-slash-command
 
 ![](https://i.imgur.com/5FoweFz.jpg)
 
+### Twilio Note
+- You can change the voice in https://console.twilio.com/us1/develop/voice/settings/text-to-speech
+
 ### Discord Bot Note
 - Call
     - Digits
