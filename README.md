@@ -67,7 +67,7 @@ pip install -U discord-py-interactions / pip install -U discord-py-slash-command
    - bc1qrmsa6uew8r7h7t37jrwss4wrh54chxqsc7hss6
 
 ### Error
-- 503 Missing Access
+- 50001 Missing Access
     - Give the Bot Enough Access
     - Make sure  the server id is correct
     - Make Sure the Oauth2  Url Gen Have the same scope as the pic above 
