@@ -1,4 +1,4 @@
-![](https://dcbadge.vercel.app/api/shield/423747377506025472)
+### Making New One but in .exe (not discord bot), A lot of New Features, Nice UI & For Free ofc
 
 ### Note
 - If you have any problem u can contact me
