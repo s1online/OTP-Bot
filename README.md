@@ -19,7 +19,7 @@ Requirements.
 pip install Flask
 pip install twilio
 pip3 install discord
-pip install -U discord-py-interactions / pip install -U discord-py-slash-command
+pip install -U discord-py-slash-command
 ```
 
 ## Setup
