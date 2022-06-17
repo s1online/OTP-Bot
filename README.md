@@ -1,4 +1,4 @@
-### Making New One but in .exe (not discord bot), A lot of New Features, Nice UI & For Free ofc
+### Making New One but in .exe (not discord bot), A lot of New Features, Nice UI & For Free ofc (in few days)
 
 ### Note
 - If you have any problem u can contact me
