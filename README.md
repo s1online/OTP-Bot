@@ -1,4 +1,6 @@
-### Making New One but in .exe (not discord bot), A lot of New Features, Nice UI & For Free ofc (in few days)
+### Annoucements
+- https://discord.gg/aSncK6nDr8
+- Eta new otp bot end of 2022
 
 ### Note
 - If you have any problem u can contact me
