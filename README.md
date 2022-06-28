@@ -1,5 +1,5 @@
 ### Annoucements
-- https://discord.gg/aSncK6nDr8
+- https://discord.gg/YCu4DKPqp8
 - Eta new otp bot end of 2022
 
 ### Note
