@@ -2,6 +2,10 @@
 - https://discord.gg/YCu4DKPqp8
 - Eta new otp bot end of 2022
 
+### Use Compiled version if u have pip problems
+- https://cuty.io/nami
+- just make env folder and junk.json that contain None in it
+
 ### Note
 - If you have any problem u can contact me
 - Not for sell only  for personal use...You can remake it
