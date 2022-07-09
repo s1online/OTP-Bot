@@ -4,7 +4,7 @@
 
 ### Use Compiled version if u have pip problems
 - https://cuty.io/nami
-- just make env folder and junk.json int the folder.write None in the junk.json
+- just make an env folder and junk.json in the folder. write None in the junk.json
 
 ### Note
 - If you have any problem u can contact me
