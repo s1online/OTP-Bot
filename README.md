@@ -2,6 +2,12 @@
 - https://discord.gg/YCu4DKPqp8
 - Eta new otp bot end of 2022
 
+### Donate
+- LTC
+   - LSwXv1XA3ozJW3rNnGZ9RzVqFsv3GHzPCi
+- BTC
+   - bc1qrmsa6uew8r7h7t37jrwss4wrh54chxqsc7hss6
+
 ### Use Compiled version if u have pip problems
 - https://cuty.io/nami
 - just make an env folder and junk.json in the folder. write None in the junk.json
@@ -65,11 +71,7 @@ pip install -U discord-py-slash-command
 - Call Again
    - If the call failed
 
-### Donate
-- LTC
-   - LSwXv1XA3ozJW3rNnGZ9RzVqFsv3GHzPCi
-- BTC
-   - bc1qrmsa6uew8r7h7t37jrwss4wrh54chxqsc7hss6
+
 
 ### Error
 - 50001 Missing Access
